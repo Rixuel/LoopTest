@@ -4,3 +4,4 @@ How much time does your computer take to execute LoopTest?
 
 Section 1
 2
+3
